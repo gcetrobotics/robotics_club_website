@@ -587,7 +587,7 @@
   /* Responsive adjustments for tablet and mobile */
   @media screen and (max-width: 768px) {
       .logo h1{
-        font-size: 1.8rem;
+        font-size: 1.5rem;
       }
       .hero {
                 background-image: url("mini_burger.png");
